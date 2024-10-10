@@ -1,6 +1,6 @@
 # Session 1
 **Description:**
-This repository contains solutions to basic Python exercises, covering topics such as arithmetic operations, string manipulation, lists, dictionaries, tuples, sets, control flow, and functions.
+Session 1 branch contains solutions to basic Python exercises, covering topics such as arithmetic operations, string manipulation, lists, dictionaries, tuples, sets, control flow, and functions.
 
 ## List of Exercises:
 
