@@ -4,7 +4,7 @@ Session 1 branch contains solutions to basic Python exercises, covering topics s
 
 ## List of Exercises:
 
-### Syntax and variables
+### 1. Syntax and variables
     Exercise 1: Print a Greeting
     A simple Python program to print a greeting message, such as "Hello, Python!".
     Exercise 2: Basic Arithmetic
@@ -12,19 +12,19 @@ Session 1 branch contains solutions to basic Python exercises, covering topics s
     Exercise 3: String Manipulation
     A Python program that defines a variable `name` and prints "Hello, [name]!" where `[name]` is the value of the variable.
 
-### Lists and Dictionaries
+### 2. Lists and Dictionaries
     Exercise 4: Lists
     A program that creates a list of five universities and prints the entire list, along with the first and last university in the list.
     Exercise 5: Dictionaries
     A program that creates a dictionary called `student` with keys: `name`, `age`, and `grade`. It prints each key-value pair in the dictionary.
 
-### Tuples and Sets
+### 3. Tuples and Sets
     Exercise 6: Tuples
     A program that defines a tuple `coordinates` with two values representing a point in 2D space and prints the values.
     Exercise 7: Sets
     A program that creates a set of colors, adds a new color, tries adding a duplicate color, and merges with another set.
 
-### Control flow
+### 4. Control flow
     Exercise 8: Conditional Statements
     A program that takes an input number from the user and checks whether it is positive, negative, or zero.
     Exercise 9: For Loop
@@ -34,7 +34,7 @@ Session 1 branch contains solutions to basic Python exercises, covering topics s
     Exercise 11: Match Statement (Python 3.10+)
     A program that asks the user for a grade and uses the `match` statement to print a corresponding message.
 
-### Function
+### 5. Function
     Exercise 12: Define a Function
     A function `greet` that takes a name as an argument and prints "Hello, [name]!".
     Exercise 13: Function with Return Value
@@ -42,7 +42,7 @@ Session 1 branch contains solutions to basic Python exercises, covering topics s
     Exercise 14: Function with Default Parameters
     A function `multiply` that takes two parameters, `a` and `b`, and returns their product. The second parameter has a default value of 1.
 
-### Combining all we learned
+### 6. Combining all we learned
     Exercise 15: List Comprehension
     A program that uses list comprehension to generate a list of squares of numbers from 1 to 10.
     Exercise 16: Nested Data Structures
