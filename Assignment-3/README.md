@@ -1,3 +1,7 @@
+# Python for Data Science
+
+# Assignment-3
+
 This assignment implements a simple Course Registration System using Python. The system consists of three main classes: **Course**, **Student**, and **Registration**.
 
 ### Features
